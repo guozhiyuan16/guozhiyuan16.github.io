@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Aurora</title>
+  
+  <subtitle>去发光，而不是被照亮。</subtitle>
+  <link href="https://blog.guozy.online/atom.xml" rel="self"/>
+  
+  <link href="https://blog.guozy.online/"/>
+  <updated>2024-02-22T13:46:21.363Z</updated>
+  <id>https://blog.guozy.online/</id>
+  
+  <author>
+    <name>Aurora</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你不知道的JavaScript</title>
+    <link href="https://blog.guozy.online/posts/7cda.html"/>
+    <id>https://blog.guozy.online/posts/7cda.html</id>
+    <published>2023-12-05T22:44:12.000Z</published>
+    <updated>2024-02-22T13:46:21.363Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;你不知道的JavaScript（上）&quot;&gt;&lt;a href=&quot;#你不知道的JavaScript（上）&quot; class=&quot;headerlink&quot; title=&quot;你不知道的JavaScript（上）&quot;&gt;&lt;/a&gt;你不知道的JavaScript（上）&lt;/h1&gt;&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="人类补完计划" scheme="https://blog.guozy.online/categories/%E4%BA%BA%E7%B1%BB%E8%A1%A5%E5%AE%8C%E8%AE%A1%E5%88%92/"/>
+    
+    <category term="时刻准备着" scheme="https://blog.guozy.online/categories/%E4%BA%BA%E7%B1%BB%E8%A1%A5%E5%AE%8C%E8%AE%A1%E5%88%92/%E6%97%B6%E5%88%BB%E5%87%86%E5%A4%87%E7%9D%80/"/>
+    
+    
+    <category term="原生JS" scheme="https://blog.guozy.online/tags/%E5%8E%9F%E7%94%9FJS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>读书笔记</title>
+    <link href="https://blog.guozy.online/posts/ca87.html"/>
+    <id>https://blog.guozy.online/posts/ca87.html</id>
+    <published>2023-11-11T17:57:31.000Z</published>
+    <updated>2024-02-22T13:46:21.363Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;唐诗&quot;&gt;&lt;a href=&quot;#唐诗&quot; class=&quot;headerlink&quot; title=&quot;唐诗&quot;&gt;&lt;/a&gt;唐诗&lt;/h1&gt;&lt;h2 id=&quot;诗歌的起源&quot;&gt;&lt;a href=&quot;#诗歌的起源&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="唐诗" scheme="https://blog.guozy.online/categories/%E5%94%90%E8%AF%97/"/>
+    
+    
+    <category term="读书" scheme="https://blog.guozy.online/tags/%E8%AF%BB%E4%B9%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>算法复杂度</title>
+    <link href="https://blog.guozy.online/posts/7796.html"/>
+    <id>https://blog.guozy.online/posts/7796.html</id>
+    <published>2023-11-04T22:00:00.000Z</published>
+    <updated>2023-11-05T22:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;算法复杂度&quot;&gt;&lt;a href=&quot;#算法复杂度&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="时刻准备着" scheme="https://blog.guozy.online/categories/%E6%97%B6%E5%88%BB%E5%87%86%E5%A4%87%E7%9D%80/"/>
+    
+    
+    <category term="算法" scheme="https://blog.guozy.online/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>常见的Vue知识点</title>
+    <link href="https://blog.guozy.online/posts/c8d1.html"/>
+    <id>https://blog.guozy.online/posts/c8d1.html</id>
+    <published>2023-10-28T17:05:29.000Z</published>
+    <updated>2023-10-28T22:09:50.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;总结常见的Vue知识点，看看你在哪个段位-QAQ&quot;&gt;&lt;a href=&quot;#总结常见的Vue知识点，看看你在哪个段位-QAQ&quot; class=&quot;headerlink&quot; title=&quot;总结常见的Vue知识点，看看你在哪个段位</summary>
+        
+      
+    
+    
+    
+    <category term="时刻准备着" scheme="https://blog.guozy.online/categories/%E6%97%B6%E5%88%BB%E5%87%86%E5%A4%87%E7%9D%80/"/>
+    
+    
+    <category term="Vue" scheme="https://blog.guozy.online/tags/Vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue3IX-组件渲染</title>
+    <link href="https://blog.guozy.online/posts/5459.html"/>
+    <id>https://blog.guozy.online/posts/5459.html</id>
+    <published>2023-10-04T18:46:50.000Z</published>
+    <updated>2024-02-22T13:46:21.359Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;组件渲染&quot;&gt;&lt;a href=&quot;#组件渲染&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="人类补完计划" scheme="https://blog.guozy.online/categories/%E4%BA%BA%E7%B1%BB%E8%A1%A5%E5%AE%8C%E8%AE%A1%E5%88%92/"/>
+    
+    
+    <category term="Vue3" scheme="https://blog.guozy.online/tags/Vue3/"/>
+    
+    <category term="源码" scheme="https://blog.guozy.online/tags/%E6%BA%90%E7%A0%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>常用正则表达式</title>
+    <link href="https://blog.guozy.online/posts/87a8.html"/>
+    <id>https://blog.guozy.online/posts/87a8.html</id>
+    <published>2023-09-10T16:20:26.000Z</published>
+    <updated>2024-02-22T13:46:21.363Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;正则表达式&quot;&gt;&lt;a href=&quot;#正则表达式&quot; class=&quot;headerlink&quot; title=&quot;正则表达式&quot;&gt;&lt;/a&gt;正则表达式&lt;/h1&gt;&lt;h2 id=&quot;常用正则表达式&quot;&gt;&lt;a href=&quot;#常用正则表达式&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="人类补完计划" scheme="https://blog.guozy.online/categories/%E4%BA%BA%E7%B1%BB%E8%A1%A5%E5%AE%8C%E8%AE%A1%E5%88%92/"/>
+    
+    
+    <category term="总结" scheme="https://blog.guozy.online/tags/%E6%80%BB%E7%BB%93/"/>
+    
+    <category term="正则" scheme="https://blog.guozy.online/tags/%E6%AD%A3%E5%88%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>正则表达式总结</title>
+    <link href="https://blog.guozy.online/posts/1f2a.html"/>
+    <id>https://blog.guozy.online/posts/1f2a.html</id>
+    <published>2023-09-09T11:28:26.000Z</published>
+    <updated>2024-02-22T13:46:21.363Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;正则表达式总结&quot;&gt;&lt;a href=&quot;#正则表达式总结&quot; class=&quot;headerlink&quot; title=&quot;正则表达式总结&quot;&gt;&lt;/a&gt;正则表达式总结&lt;/h1&gt;&lt;h2 id=&quot;正则作用&quot;&gt;&lt;a href=&quot;#正则作用&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="人类补完计划" scheme="https://blog.guozy.online/categories/%E4%BA%BA%E7%B1%BB%E8%A1%A5%E5%AE%8C%E8%AE%A1%E5%88%92/"/>
+    
+    
+    <category term="总结" scheme="https://blog.guozy.online/tags/%E6%80%BB%E7%BB%93/"/>
+    
+    <category term="正则" scheme="https://blog.guozy.online/tags/%E6%AD%A3%E5%88%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue3源码Ⅴ-computed&amp;ref实现</title>
+    <link href="https://blog.guozy.online/posts/14b0.html"/>
+    <id>https://blog.guozy.online/posts/14b0.html</id>
+    <published>2023-09-02T12:21:12.000Z</published>
+    <updated>2024-02-22T13:46:21.359Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;computed-amp-ref的基本用法以及实现&quot;&gt;&lt;a href=&quot;#computed-amp-ref的基本用法以及实现&quot; class=&quot;headerlink&quot; title=&quot;computed &amp;amp; ref的基本用法以及实现&quot;&gt;&lt;/a&gt;computed</summary>
+        
+      
+    
+    
+    
+    <category term="人类补完计划" scheme="https://blog.guozy.online/categories/%E4%BA%BA%E7%B1%BB%E8%A1%A5%E5%AE%8C%E8%AE%A1%E5%88%92/"/>
+    
+    
+    <category term="Vue3" scheme="https://blog.guozy.online/tags/Vue3/"/>
+    
+    <category term="源码" scheme="https://blog.guozy.online/tags/%E6%BA%90%E7%A0%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue3源码Ⅳ-watch实现</title>
+    <link href="https://blog.guozy.online/posts/f3fc.html"/>
+    <id>https://blog.guozy.online/posts/f3fc.html</id>
+    <published>2023-08-30T23:01:08.000Z</published>
+    <updated>2024-02-22T13:46:21.359Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;watch-amp-watchEffect-的基本用法及实现&quot;&gt;&lt;a href=&quot;#watch-amp-watchEffect-的基本用法及实现&quot; class=&quot;headerlink&quot; title=&quot;watch &amp;amp; watchEffect</summary>
+        
+      
+    
+    
+    
+    <category term="人类补完计划" scheme="https://blog.guozy.online/categories/%E4%BA%BA%E7%B1%BB%E8%A1%A5%E5%AE%8C%E8%AE%A1%E5%88%92/"/>
+    
+    
+    <category term="Vue3" scheme="https://blog.guozy.online/tags/Vue3/"/>
+    
+    <category term="源码" scheme="https://blog.guozy.online/tags/%E6%BA%90%E7%A0%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue3源码III-effect补充</title>
+    <link href="https://blog.guozy.online/posts/9c59.html"/>
+    <id>https://blog.guozy.online/posts/9c59.html</id>
+    <published>2023-08-27T11:04:18.000Z</published>
+    <updated>2024-02-22T13:46:21.359Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Vue3源码III-effect补充&quot;&gt;&lt;a href=&quot;#Vue3源码III-effect补充&quot; class=&quot;headerlink&quot; title=&quot;Vue3源码III-effect补充&quot;&gt;&lt;/a&gt;Vue3源码III-effect补充&lt;/h1&gt;&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="人类补完计划" scheme="https://blog.guozy.online/categories/%E4%BA%BA%E7%B1%BB%E8%A1%A5%E5%AE%8C%E8%AE%A1%E5%88%92/"/>
+    
+    
+    <category term="Vue3" scheme="https://blog.guozy.online/tags/Vue3/"/>
+    
+    <category term="源码" scheme="https://blog.guozy.online/tags/%E6%BA%90%E7%A0%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue3源码II-响应式实现</title>
+    <link href="https://blog.guozy.online/posts/5899.html"/>
+    <id>https://blog.guozy.online/posts/5899.html</id>
+    <published>2023-08-24T21:54:33.000Z</published>
+    <updated>2024-02-22T13:46:21.359Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Vue3响应式原理&quot;&gt;&lt;a href=&quot;#Vue3响应式原理&quot; class=&quot;headerlink&quot; title=&quot;Vue3响应式原理&quot;&gt;&lt;/a&gt;Vue3响应式原理&lt;/h1&gt;&lt;h2 id=&quot;1-Vue3响应式系统与Vue2响应式系统的区别&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="人类补完计划" scheme="https://blog.guozy.online/categories/%E4%BA%BA%E7%B1%BB%E8%A1%A5%E5%AE%8C%E8%AE%A1%E5%88%92/"/>
+    
+    
+    <category term="Vue3" scheme="https://blog.guozy.online/tags/Vue3/"/>
+    
+    <category term="源码" scheme="https://blog.guozy.online/tags/%E6%BA%90%E7%A0%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue3源码I-环境搭建</title>
+    <link href="https://blog.guozy.online/posts/1d18.html"/>
+    <id>https://blog.guozy.online/posts/1d18.html</id>
+    <published>2023-08-20T22:59:27.000Z</published>
+    <updated>2024-02-22T13:46:21.359Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Vue3-I&quot;&gt;&lt;a href=&quot;#Vue3-I&quot; class=&quot;headerlink&quot; title=&quot;Vue3 I&quot;&gt;&lt;/a&gt;Vue3 I&lt;/h1&gt;&lt;h2 id=&quot;Vue3设计思想&quot;&gt;&lt;a href=&quot;#Vue3设计思想&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="人类补完计划" scheme="https://blog.guozy.online/categories/%E4%BA%BA%E7%B1%BB%E8%A1%A5%E5%AE%8C%E8%AE%A1%E5%88%92/"/>
+    
+    
+    <category term="Vue3" scheme="https://blog.guozy.online/tags/Vue3/"/>
+    
+    <category term="源码" scheme="https://blog.guozy.online/tags/%E6%BA%90%E7%A0%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>generator的用法 &amp; async-await</title>
+    <link href="https://blog.guozy.online/posts/e538.html"/>
+    <id>https://blog.guozy.online/posts/e538.html</id>
+    <published>2023-08-19T18:28:55.000Z</published>
+    <updated>2024-02-22T13:46:21.363Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;generator用法实现以及async-await&quot;&gt;&lt;a href=&quot;#generator用法实现以及async-await&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="人类补完计划" scheme="https://blog.guozy.online/categories/%E4%BA%BA%E7%B1%BB%E8%A1%A5%E5%AE%8C%E8%AE%A1%E5%88%92/"/>
+    
+    
+    <category term="ES6" scheme="https://blog.guozy.online/tags/ES6/"/>
+    
+    <category term="总结" scheme="https://blog.guozy.online/tags/%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>从零开始实现一个符合A+规范的Promise</title>
+    <link href="https://blog.guozy.online/posts/f09f.html"/>
+    <id>https://blog.guozy.online/posts/f09f.html</id>
+    <published>2023-08-13T13:21:39.000Z</published>
+    <updated>2024-02-22T13:46:21.363Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;从零开始实现一个符合A-规范的Promise&quot;&gt;&lt;a href=&quot;#从零开始实现一个符合A-规范的Promise&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="人类补完计划" scheme="https://blog.guozy.online/categories/%E4%BA%BA%E7%B1%BB%E8%A1%A5%E5%AE%8C%E8%AE%A1%E5%88%92/"/>
+    
+    
+    <category term="ES6" scheme="https://blog.guozy.online/tags/ES6/"/>
+    
+    <category term="总结" scheme="https://blog.guozy.online/tags/%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>高阶函数</title>
+    <link href="https://blog.guozy.online/posts/450.html"/>
+    <id>https://blog.guozy.online/posts/450.html</id>
+    <published>2023-08-12T15:13:08.000Z</published>
+    <updated>2024-02-22T13:46:21.363Z</updated>
+    
+    
+    <summary type="html">高阶函数的简介以及应用</summary>
+    
+    
+    
+    <category term="人类补完计划" scheme="https://blog.guozy.online/categories/%E4%BA%BA%E7%B1%BB%E8%A1%A5%E5%AE%8C%E8%AE%A1%E5%88%92/"/>
+    
+    
+    <category term="总结" scheme="https://blog.guozy.online/tags/%E6%80%BB%E7%BB%93/"/>
+    
+    <category term="原生js" scheme="https://blog.guozy.online/tags/%E5%8E%9F%E7%94%9Fjs/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>生成hexo底部自定义小徽章</title>
+    <link href="https://blog.guozy.online/posts/d3a9.html"/>
+    <id>https://blog.guozy.online/posts/d3a9.html</id>
+    <published>2023-07-29T06:05:25.000Z</published>
+    <updated>2024-02-22T13:46:21.363Z</updated>
+    
+    
+    <summary type="html">一步一步生成网站底部自定义徽章</summary>
+    
+    
+    
+    <category term="人类补完计划" scheme="https://blog.guozy.online/categories/%E4%BA%BA%E7%B1%BB%E8%A1%A5%E5%AE%8C%E8%AE%A1%E5%88%92/"/>
+    
+    
+    <category term="工具" scheme="https://blog.guozy.online/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客优化点</title>
+    <link href="https://blog.guozy.online/posts/66bc.html"/>
+    <id>https://blog.guozy.online/posts/66bc.html</id>
+    <published>2023-06-17T18:13:45.000Z</published>
+    <updated>2024-02-22T13:46:21.363Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;博客更新已经优化清单&quot;&gt;&lt;a href=&quot;#博客更新已经优化清单&quot; class=&quot;headerlink&quot; title=&quot;博客更新已经优化清单&quot;&gt;&lt;/a&gt;博客更新已经优化清单&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&quot;&quot; disabled=&quot;&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="人类补完计划" scheme="https://blog.guozy.online/categories/%E4%BA%BA%E7%B1%BB%E8%A1%A5%E5%AE%8C%E8%AE%A1%E5%88%92/"/>
+    
+    
+    <category term="hexo" scheme="https://blog.guozy.online/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>浏览器工作原理</title>
+    <link href="https://blog.guozy.online/posts/fbf6.html"/>
+    <id>https://blog.guozy.online/posts/fbf6.html</id>
+    <published>2023-06-06T23:25:08.000Z</published>
+    <updated>2024-02-22T13:46:21.363Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;浏览器工作原理&quot;&gt;&lt;a href=&quot;#浏览器工作原理&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="时刻准备着" scheme="https://blog.guozy.online/categories/%E6%97%B6%E5%88%BB%E5%87%86%E5%A4%87%E7%9D%80/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ES6用法总结</title>
+    <link href="https://blog.guozy.online/posts/5b5a.html"/>
+    <id>https://blog.guozy.online/posts/5b5a.html</id>
+    <published>2023-05-29T22:55:54.000Z</published>
+    <updated>2023-05-29T22:55:54.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;对象取值&quot;&gt;&lt;a href=&quot;#对象取值&quot; class=&quot;headerlink&quot; title=&quot;对象取值&quot;&gt;&lt;/a&gt;对象取值&lt;/h1&gt;&lt;p&gt;取值在程序中非常常见，比如从对象obj中取值&lt;/p&gt;
+&lt;pre class=&quot;line-numbers</summary>
+        
+      
+    
+    
+    
+    <category term="时刻准备着" scheme="https://blog.guozy.online/categories/%E6%97%B6%E5%88%BB%E5%87%86%E5%A4%87%E7%9D%80/"/>
+    
+    
+    <category term="ES6" scheme="https://blog.guozy.online/tags/ES6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数组常用方法总结</title>
+    <link href="https://blog.guozy.online/posts/b528.html"/>
+    <id>https://blog.guozy.online/posts/b528.html</id>
+    <published>2023-05-25T23:43:18.000Z</published>
+    <updated>2023-05-25T23:43:18.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;数组常用方法及兼容性总结&quot;&gt;&lt;a href=&quot;#数组常用方法及兼容性总结&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="人类补完计划" scheme="https://blog.guozy.online/categories/%E4%BA%BA%E7%B1%BB%E8%A1%A5%E5%AE%8C%E8%AE%A1%E5%88%92/"/>
+    
+    
+    <category term="原生JS" scheme="https://blog.guozy.online/tags/%E5%8E%9F%E7%94%9FJS/"/>
+    
+  </entry>
+  
+</feed>
